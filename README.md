@@ -35,9 +35,5 @@ realiza a multiplicação de dois números. Dessa forma, adaptamos a operação 
 multiplicação para fazer múltiplas adições.
 
 
-Área de dados
-
-![image](https://github.com/lusostisso/ManipulandoVetores/assets/108033299/6aa7fe55-d3a3-4cbf-8cf0-a6156dcc7726)
-
 Resultado após Execução
 ![image](https://github.com/lusostisso/ManipulandoVetores/assets/108033299/990eafe0-7667-481e-9b56-3fa4e418da1b)
